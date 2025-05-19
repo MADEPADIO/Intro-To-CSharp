@@ -1,0 +1,15 @@
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\bin\Debug\net8.0\TipCalculator.exe
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\bin\Debug\net8.0\TipCalculator.deps.json
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\bin\Debug\net8.0\TipCalculator.runtimeconfig.json
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\bin\Debug\net8.0\TipCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\bin\Debug\net8.0\TipCalculator.pdb
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.AssemblyInfo.cs
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.sourcelink.json
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\refint\TipCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.pdb
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\TipCalculator.genruntimeconfig.cache
+C:\Users\PADIO\Intro-To-CSharp\TipCalculator\obj\Debug\net8.0\ref\TipCalculator.dll

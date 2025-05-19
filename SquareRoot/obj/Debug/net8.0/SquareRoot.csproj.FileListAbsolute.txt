@@ -1,0 +1,15 @@
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\bin\Debug\net8.0\SquareRoot.exe
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\bin\Debug\net8.0\SquareRoot.deps.json
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\bin\Debug\net8.0\SquareRoot.runtimeconfig.json
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\bin\Debug\net8.0\SquareRoot.dll
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\bin\Debug\net8.0\SquareRoot.pdb
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.AssemblyInfo.cs
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.sourcelink.json
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.dll
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\refint\SquareRoot.dll
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.pdb
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\SquareRoot.genruntimeconfig.cache
+C:\Users\PADIO\Intro-To-CSharp\SquareRoot\obj\Debug\net8.0\ref\SquareRoot.dll

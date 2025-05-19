@@ -1,0 +1,15 @@
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\bin\Debug\net8.0\SequenceOfNumbers.exe
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\bin\Debug\net8.0\SequenceOfNumbers.deps.json
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\bin\Debug\net8.0\SequenceOfNumbers.runtimeconfig.json
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\bin\Debug\net8.0\SequenceOfNumbers.dll
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\bin\Debug\net8.0\SequenceOfNumbers.pdb
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.AssemblyInfoInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.AssemblyInfo.cs
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.sourcelink.json
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.dll
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\refint\SequenceOfNumbers.dll
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.pdb
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\SequenceOfNumbers.genruntimeconfig.cache
+C:\Users\PADIO\Intro-To-CSharp\SequenceOfNumbers\obj\Debug\net8.0\ref\SequenceOfNumbers.dll

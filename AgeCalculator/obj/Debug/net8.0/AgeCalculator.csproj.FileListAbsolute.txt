@@ -1,0 +1,15 @@
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.sourcelink.json
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\PADIO\Intro-To-CSharp\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll
