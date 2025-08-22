@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area-Of-A-Rectangular-Room", "Area-Of-A-Rectangular-Room.csproj", "{A9E821D4-0A42-456A-8EBD-1207D9A7A9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area-Of-A-Rectangular-Room-v2", "..\Area-Of-A-Rectangular-Room-v2\Area-Of-A-Rectangular-Room-v2.csproj", "{A9F654A5-2005-4C7C-981F-7CF00D599FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E821D4-0A42-456A-8EBD-1207D9A7A9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E821D4-0A42-456A-8EBD-1207D9A7A9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E821D4-0A42-456A-8EBD-1207D9A7A9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E821D4-0A42-456A-8EBD-1207D9A7A9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F654A5-2005-4C7C-981F-7CF00D599FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F654A5-2005-4C7C-981F-7CF00D599FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F654A5-2005-4C7C-981F-7CF00D599FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F654A5-2005-4C7C-981F-7CF00D599FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7320825B-DF44-4A7F-9657-B3207FB2BA90}
+	EndGlobalSection
+EndGlobal
