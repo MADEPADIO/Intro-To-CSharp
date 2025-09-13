@@ -58,10 +58,5 @@ namespace Pizza_Party
 
 
 
-        public static void NotEnoughPizza ()
-        {
-             
-        }
-
     }
 }
