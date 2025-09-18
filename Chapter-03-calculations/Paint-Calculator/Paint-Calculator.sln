@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint-Calculator", "Paint-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint-Calculator-v2", "..\Paint-Calculator-v2\Paint-Calculator-v2.csproj", "{796450ED-A35F-4930-8694-F63F268D60C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint-Calculator-v3", "..\Paint-Calculator-v3\Paint-Calculator-v3.csproj", "{2DC9C0E6-3F63-4BAA-8176-E98A6C194423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{796450ED-A35F-4930-8694-F63F268D60C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{796450ED-A35F-4930-8694-F63F268D60C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{796450ED-A35F-4930-8694-F63F268D60C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC9C0E6-3F63-4BAA-8176-E98A6C194423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC9C0E6-3F63-4BAA-8176-E98A6C194423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC9C0E6-3F63-4BAA-8176-E98A6C194423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC9C0E6-3F63-4BAA-8176-E98A6C194423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
