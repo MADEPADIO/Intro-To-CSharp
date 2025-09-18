@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza-Party-v2", "..\Pizza-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza-Party-v3", "..\Pizza-Party-v3\Pizza-Party-v3.csproj", "{614088C5-EDB8-4139-9204-7127A5BEC0B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza-Party-v4", "..\Pizza-Party-v4\Pizza-Party-v4.csproj", "{EBB9BF8A-C8B6-47EF-BFBD-C166424E8080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{614088C5-EDB8-4139-9204-7127A5BEC0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614088C5-EDB8-4139-9204-7127A5BEC0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614088C5-EDB8-4139-9204-7127A5BEC0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB9BF8A-C8B6-47EF-BFBD-C166424E8080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB9BF8A-C8B6-47EF-BFBD-C166424E8080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB9BF8A-C8B6-47EF-BFBD-C166424E8080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB9BF8A-C8B6-47EF-BFBD-C166424E8080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
