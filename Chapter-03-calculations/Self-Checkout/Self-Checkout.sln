@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-Checkout", "Self-Check
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-Checkout-v2", "..\Self-Checkout-v2\Self-Checkout-v2.csproj", "{705495EC-7AE9-4422-BA39-5E635255E2C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-Checkout-v3", "..\Self-Checkout-v3\Self-Checkout-v3.csproj", "{2F5CB5D6-4AB0-4114-84BB-CD9B27102052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{705495EC-7AE9-4422-BA39-5E635255E2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705495EC-7AE9-4422-BA39-5E635255E2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705495EC-7AE9-4422-BA39-5E635255E2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5CB5D6-4AB0-4114-84BB-CD9B27102052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5CB5D6-4AB0-4114-84BB-CD9B27102052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5CB5D6-4AB0-4114-84BB-CD9B27102052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5CB5D6-4AB0-4114-84BB-CD9B27102052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

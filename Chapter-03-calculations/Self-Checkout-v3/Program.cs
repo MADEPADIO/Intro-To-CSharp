@@ -1,31 +1,44 @@
-﻿namespace Self_Checkout_v2
+﻿namespace Self_Checkout_v3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int numberOfItems = ConvertInputToNumber("How many items did you purchase: "), item = 1, quantity;
+            int item = 1, quantity;
             decimal pricesOfItems, subtotal = 0, total, tax;
+            string continueInput;
 
-
-            while (numberOfItems > 0)
+            do
             {
-                pricesOfItems = ConvertInputToNumber($"What is the price of item {item}: ");
-                quantity = ConvertInputToNumber("Quantity: ");
-                subtotal += (quantity * pricesOfItems);
-                item++;
-                numberOfItems--;
+                Console.Write($"What is the price of item {item} (or press Enter to finish): ");
+                continueInput = Console.ReadLine();
+                
+                if (string.IsNullOrEmpty(continueInput))
+                    break;
+
+                if (decimal.TryParse(continueInput, out pricesOfItems) && pricesOfItems >= 0)
+                {
+                    quantity = ConvertInputToNumber("Quantity: ");
+                    subtotal += (quantity * pricesOfItems);
+                    item++;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a valid positive price");
+                }
             }
+            while (true);
+
             tax = (5.5m / 100) * subtotal;
             total = tax + subtotal;
 
-            Console.WriteLine($"Subtotal: {subtotal} \n Tax: {tax} \n Total: {total}");
-
+            Console.WriteLine($"Subtotal: ${subtotal:F2}");
+            Console.WriteLine($"Tax: ${tax:F2}");
+            Console.WriteLine($"Total: ${total:F2}");
         }
 
         public static int ConvertInputToNumber(string input)
         {
-
             bool isInputNumber = false;
             string prompt;
             int output;
@@ -37,16 +50,12 @@
                 {
                     isInputNumber = true;
                     break;
-
                 }
-
                 else
                 {
                     Console.WriteLine("Your input is supposed to be a positive number");
                     isInputNumber = false;
                 }
-
-
             }
             while (isInputNumber == false);
             return output;
