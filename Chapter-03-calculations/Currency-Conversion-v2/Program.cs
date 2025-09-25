@@ -1,23 +1,21 @@
-﻿namespace Currency_Conversion
+﻿namespace Currency_Conversion_v2
 {
 	internal class Program
 	{
-
 		static void Main(string[] args)
 		{
 			Console.Write("What currency are you converting from? (e.g., USD): ");
 			string fromCurrency = Console.ReadLine().ToUpper();
 			Console.Write("What currency are you converting to? (e.g., EUR): ");
 			string toCurrency = Console.ReadLine().ToUpper();
+			string baseCurrency = "USD";
 			decimal amountToConvert = ConvertInputToNumber($"How many {fromCurrency} are you exchanging? "),
-					conversionRate = ConvertInputToNumber($"How many  {toCurrency}  is 1  {fromCurrency}? "),
+					conversionRate = ConvertInputToNumber($"How many {baseCurrency} is 1 {fromCurrency}? "),
+					secondConversionRate = ConvertInputToNumber($"How many {toCurrency} is 1 {baseCurrency}? "),
 					convertedAmount;
-			convertedAmount = amountToConvert * conversionRate;
+			convertedAmount = amountToConvert * conversionRate * secondConversionRate;
 			Console.WriteLine($"{amountToConvert} {fromCurrency} at a conversion rate of {conversionRate} is {convertedAmount} {toCurrency}.");
-
-
-
-        }
+		}
 
 		public static decimal ConvertInputToNumber(string input)
 		{
