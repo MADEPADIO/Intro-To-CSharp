@@ -15,7 +15,7 @@
 					conversionRate = ConvertInputToNumber($"How many  {toCurrency}  is 1  {fromCurrency}? "),
 					convertedAmount;
 			convertedAmount = amountToConvert * conversionRate;
-			Console.WriteLine($"{amountToConvert} {fromCurrency} at a conversion rate of {conversionRate} is {convertedAmount} {toCurrency}.");
+			Console.WriteLine($"{amountToConvert} {fromCurrency} at a conversion rate of {conversionRate} is {Math.Round(convertedAmount, 2, MidpointRounding.AwayFromZero)} {toCurrency}.");
 
 
 

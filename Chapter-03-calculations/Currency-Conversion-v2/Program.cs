@@ -12,7 +12,7 @@
 					secondConversionRate = ConvertInputToNumber($"How many {baseCurrency} is 1 {toCurrency}? "),
 					convertedAmount;
 			convertedAmount = (amountToConvert * conversionRate) / secondConversionRate;
-			Console.WriteLine($"{amountToConvert} {fromCurrency} at a conversion rate of {conversionRate}{baseCurrency} is {convertedAmount} {toCurrency}.");
+			Console.WriteLine($"{amountToConvert} {fromCurrency} at a conversion rate of {conversionRate}{baseCurrency} is {Math.Round(convertedAmount, 2, MidpointRounding.AwayFromZero)} {toCurrency}.");
 		}
 
 		public static decimal ConvertInputToNumber(string input)
