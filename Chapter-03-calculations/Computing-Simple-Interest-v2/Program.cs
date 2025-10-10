@@ -1,18 +1,10 @@
-﻿namespace Computing_Simple_Interest
+﻿namespace Computing_Simple_Interest_v2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            decimal principalAmount = ConvertInputToDecimal("How much are you investing? "),
-                    percent = ConvertInputToDecimal("How many percent? "),
-                    rate = percent / 100,
-                    Amount;
-            int time = ConvertInputToInteger("How many years are you investing? ");
-
-            Amount = principalAmount * (1 + (rate * time));
-            Console.WriteLine($"After {time} years at {rate:P}, the investment will be worth {Math.Round(Amount, 2, MidpointRounding.AwayFromZero):C}");
-                    
+            CalculateSimpleInterest();
         }
 
         public static decimal ConvertInputToDecimal(string input)
@@ -73,5 +65,31 @@
             return output;
         }
 
+        public static void CalculateSimpleInterest()
+        {
+            decimal principalAmount = ConvertInputToDecimal("How much are you investing? "),
+                    percent = ConvertInputToDecimal("How many percent? "),
+                    rate = percent / 100,
+                    Amount;
+            int time = ConvertInputToInteger("How many years are you investing? ");
+
+            Amount = principalAmount * (1 + (rate * time));
+
+
+            Console.WriteLine($"After {time} years at {rate:P}, the investment will be worth {Math.Round(Amount, 2, MidpointRounding.AwayFromZero):C}\n");
+
+
+            for (int year = 1; year <= time; year++)
+            {
+                Amount = principalAmount * (1 + (rate * year));
+                if (year == 1)
+                {
+                    Console.WriteLine($"After {year} year at {rate:P}, the investment will be worth {Math.Round(Amount, 2, MidpointRounding.AwayFromZero):C}");
+                    continue;
+                }
+
+                Console.WriteLine($"After {year} years at {rate:P}, the investment will be worth {Math.Round(Amount, 2, MidpointRounding.AwayFromZero):C}");
+            }
+        }
     }
 }

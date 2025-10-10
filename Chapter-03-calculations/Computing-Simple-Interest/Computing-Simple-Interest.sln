@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computing-Simple-Interest", "Computing-Simple-Interest.csproj", "{DF052341-626D-40EB-9C27-13CE86D1820D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computing-Simple-Interest-v2", "..\Computing-Simple-Interest-v2\Computing-Simple-Interest-v2.csproj", "{00286F48-F777-4844-B3E7-C8600789C091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DF052341-626D-40EB-9C27-13CE86D1820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF052341-626D-40EB-9C27-13CE86D1820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF052341-626D-40EB-9C27-13CE86D1820D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00286F48-F777-4844-B3E7-C8600789C091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00286F48-F777-4844-B3E7-C8600789C091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00286F48-F777-4844-B3E7-C8600789C091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00286F48-F777-4844-B3E7-C8600789C091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
