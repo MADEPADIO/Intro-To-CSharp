@@ -41,7 +41,7 @@
                     password += key.KeyChar;
                 }
             } while (key.Key != ConsoleKey.Enter);
-            
+            Console.WriteLine();
             return password;
 
         
