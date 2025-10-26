@@ -40,7 +40,7 @@
 
 		private static IDictionary<int, string> GetLegalDrivingAgeByZone()
 		{
-			var Zones = new Dictionary<int, string>()
+			var zones = new Dictionary<int, string>()
 			{
 				{25, "Purple" },
 				{18 , "Green" },
@@ -49,7 +49,7 @@
 				{15 , "Yellow" }
 
 			};
-			return Zones;
+			return zones;
 		}
 	}
 }
