@@ -1,4 +1,4 @@
-﻿namespace Comparing_Numbers
+﻿namespace Comparing_Numbers_v2
 {
     internal class Program
     {
@@ -6,16 +6,20 @@
         {
             int number, largest = 0;
             List<int> numbers = new List<int>();
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 10; i++)
             {
-                number = ConvertInputToNumber("Enter a number: ");
-                if (numbers.Contains(number))
+                do
                 {
-                    Console.WriteLine("Do not enter duplicate numbers.");
-                    return;
+                    number = ConvertInputToNumber("Enter a number: ");
+                    if (numbers.Contains(number))
+                    {
+                        Console.WriteLine("Number already exists.");
+                    }
                 }
+                while (numbers.Contains(number));
+
                 numbers.Add(number);
-                    
+
             }
             foreach (var num in numbers)
             {
