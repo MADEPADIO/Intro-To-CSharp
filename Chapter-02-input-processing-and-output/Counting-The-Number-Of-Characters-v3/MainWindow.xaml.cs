@@ -62,7 +62,8 @@ namespace Counting_The_Number_Of_Characters_v3
             var textToCount = userInput.Text == UserInputPlaceholder ? string.Empty : userInput.Text ?? string.Empty;
             int length = textToCount.Length;
             count.Text = length.ToString();
-
         }
+
+
     }
 }
